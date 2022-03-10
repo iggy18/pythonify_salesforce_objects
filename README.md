@@ -12,9 +12,9 @@ install requirements.txt
 
 ## Create .env file
 - in the .env file, add the following:
-- USR=<enter userame from org>
-- PASSWORD=<enter user's password from org>
-- TOKEN=<enter users security token from org>
+- USR=*enter userame from org*
+- PASSWORD=*enter user's password from org*
+- TOKEN=*enter users security token from org*
 
 ## Config.py
 - there's only one thing to do here right now: enter the sObjets you wish to create classes for.
