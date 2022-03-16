@@ -1,4 +1,3 @@
-
 from decouple import config
 
 USR=config('USR')
@@ -7,4 +6,4 @@ TOKEN=config('TOKEN')
 
 # a list of objects to create classes for. 
 # they are case sensitive and need to be the exact name of the object in salesforce
-OBJECT_NAMES = ["Account", "Contact", "Todo__c"]
+OBJECT_NAMES = []
